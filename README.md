@@ -43,9 +43,18 @@ Modern browsers block local file access for security, causing CORS errors. The P
 ## 📱 Chromebook Users
 
 Chromebooks need special handling - see `chromebook_setup.md` for detailed instructions. Quick options:
-- **Easiest:** Upload to https://replit.com and run there
-- **Best:** Enable Linux in Settings → Advanced → Developers, then run normally
-- **Alternative:** Use "Web Server for Chrome" extension
+- **Easiest:** Upload to https://netlify.com (drag & drop!)
+- **Alternative:** Enable Linux in Settings → Advanced → Developers, then run normally
+- **Browser:** Use "Web Server for Chrome" extension
+
+## 🌐 Free Online Hosting (Works on ANY device!)
+
+**NEW:** See `FREE_HOSTING_OPTIONS.md` for complete 2025 guide!
+
+**Quick options:**
+- **🥇 Netlify:** Just drag your folder to https://netlify.com - instant website!
+- **🥈 GitHub Pages:** Enable in repo Settings → Pages
+- **🥉 Vercel:** Import from GitHub at https://vercel.com
 
 ## 🛠️ Troubleshooting
 

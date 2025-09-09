@@ -20,12 +20,12 @@ Chromebooks require a slightly different approach. Here are your options:
 5. Type `shell` and press Enter
 6. Navigate to your files and run the Python server
 
-## Option 3: Online Code Editor (Easiest)
-1. Go to https://replit.com
-2. Create new Python project
-3. Upload all the org chart files
-4. Click Run
-5. View the result in the web preview
+## Option 3: Netlify Hosting (Easiest)
+1. Go to https://netlify.com
+2. Sign up (free)
+3. Drag your entire org chart folder to their dashboard
+4. Get instant website URL
+5. Share the URL with anyone!
 
 ## Option 4: Chrome Extensions (Simple)
 1. Install "Web Server for Chrome" extension
@@ -41,4 +41,4 @@ Chromebooks require a slightly different approach. Here are your options:
 5. Enable GitHub Pages
 6. Share the generated URL with anyone
 
-**Recommended:** Try Option 1 (Linux) first, then Option 3 (Replit) if that doesn't work.
+**Recommended:** Try Option 3 (Netlify) first - it's the easiest! Then Option 1 (Linux) if you want to run locally.

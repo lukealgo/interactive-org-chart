@@ -2,15 +2,14 @@
 
 Can't run Python? No problem! Here's how to get the org chart running online in 2 minutes:
 
-## Method 1: Replit (Recommended - 100% Free)
+## Method 1: Netlify (Recommended - Drag & Drop!)
 
-1. Go to https://replit.com
+1. Go to https://netlify.com
 2. Sign up/login (free)
-3. Click "Create Repl" → "Python"
-4. **Upload all files from this folder** by dragging them into Replit
-5. Click the green "Run" button
-6. Click the web preview URL that appears
-7. **Share the URL with anyone!** 🎉
+3. **Drag your entire folder** directly onto the Netlify dashboard
+4. Get instant URL like `https://randomname.netlify.app`
+5. **Share the URL with anyone!** 🎉
+6. **Pro tip:** Rename your site in Site Settings for a custom name
 
 ## Method 2: GitHub Pages (Free Forever Hosting)
 
@@ -42,8 +41,9 @@ Can't run Python? No problem! Here's how to get the org chart running online in 
 
 ---
 
-**🎯 Best for sharing:** Method 1 (Replit) or Method 2 (GitHub Pages)
-**🎯 Best for Chromebooks:** Method 1 (Replit) or Method 4 (Chrome Extension)
+**🎯 Best for sharing:** Method 1 (Netlify) or Method 2 (GitHub Pages)
+**🎯 Best for Chromebooks:** Method 1 (Netlify) or Method 4 (Chrome Extension)
 **🎯 Quickest test:** Method 3 (CodePen)
+**🎯 Most reliable:** Method 2 (GitHub Pages)
 
 All methods work on phones, tablets, Chromebooks, any device with a browser!
